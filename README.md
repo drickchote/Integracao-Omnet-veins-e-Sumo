@@ -37,7 +37,7 @@ o inet 3.99.3 e 4.0 funciona com o ubuntu 18.04 mas tem problemas com o veins 4.
 
 
 **Baixando o omnetpp**
-Baixar a versão desejada no site do [https://omnetpp.org/download/](omnet)
+Baixar a versão desejada no site do [omnetpp](https://omnetpp.org/download/)
 descompactar arquivo na pasta /home/usuario/src (local opcional) 
 obs. o caminho não pode ter espaço (nem no seu nome de usuario)
 
@@ -77,7 +77,7 @@ libxml2-dev zlib1g-dev default-jre doxygen graphviz libwebkitgtk-1.0`
 
 Digite `omnepp` para testar se funciona, na primeira vez irá aparecer a opção de baixar os exemplos, eu sugiro que você baixe eles.
 
-[https://docs.omnetpp.org/tutorials/tictoc/](Iniciando com o Omnetpp)
+[Iniciando com o Omnetpp](https://docs.omnetpp.org/tutorials/tictoc/)
 
 **Possíveis erros:**
 
