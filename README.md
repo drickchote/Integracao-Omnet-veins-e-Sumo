@@ -125,7 +125,7 @@ https://drive.google.com/drive/folders/1xPiWokvcDIhHQCkwn2Ja5zo0NDI_PxGS?usp=sha
 nesse caso, basta dar:
 `./configure` e `make`
 
-Última versão:
+**Última versão:**
 
 Digite esses comandos:
 
