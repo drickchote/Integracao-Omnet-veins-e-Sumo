@@ -106,7 +106,29 @@ Abra o omnetpp, File > Open Projects From File System. E importe o veins.
 
 **Instalando o Sumo:**
 
+**Versão 0.30:**
+
+Vá no site e baixe a versão para linux: https://sourceforge.net/projects/sumo/files/sumo/version%200.30.0/
+
+descompacte em /home/user/src/sumo
+
+Entre na pasta sumo pelo terminal e digite os comandos:
+
+`autoconf`
+`./configure`
+`make`
+
+Caso não consiga, você pode baixar a versão 0.30 aqui:
+
+https://drive.google.com/drive/folders/1xPiWokvcDIhHQCkwn2Ja5zo0NDI_PxGS?usp=sharing
+
+nesse caso, basta dar:
+`./configure` e `make`
+
+Última versão:
+
 Digite esses comandos:
+
 `sudo add-apt-repository ppa:sumo/stable`   
             
 `sudo apt-get update	`	
